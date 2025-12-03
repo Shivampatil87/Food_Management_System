@@ -56,6 +56,3 @@
 
 <a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
 
-=======
-# Food_Management_System
->>>>>>> c5ad513aaea9a73401efd856fe8c04233f24e5ca
